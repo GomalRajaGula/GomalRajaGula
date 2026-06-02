@@ -19,12 +19,12 @@ class AchmalMaula:
     def __init__(self):
         self.name = "Achmal Maulana"
         self.role = "Software Engineering & Junior Web Developer"
-        self.location = "Cilacap, Indonesia"
-        self.github_handle = "Achmal-002"
+        self.location = "Jakarta, Indonesia"
+        my.location = "Cilacap, Indonesia"
+        self.github_handle = "GomalRajaGula"
 
     def get_current_focus(self):
         return [
             "🚀 Building Responsive Web Applications",
-            "📱 Developing Cross-Platform Mobile Apps with Flutter",
-            "🤖 Crafting Intelligent Bot Automations"
+            "📱 Shopee Driver",
         ]
