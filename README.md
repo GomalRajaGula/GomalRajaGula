@@ -1,19 +1,30 @@
+# Hi there, I'm Achmal Maulana! 👋
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Junior+Web+Developer;Bot+Automation+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ## 🎭 Who Am I?
 
-> "Building secure digital experiences while hunting cyber threats"
+> "Turning complex logic into elegant, functional digital experiences."
 
-I'm a **Cybersecurity Engineering** student at Politeknik Negeri Cilacap and the founder of **HEXANEST.ID**. My journey spans from crafting elegant full-stack applications to analyzing API traffic and building intelligent WhatsApp bots. I believe in the power of technology to create secure, innovative solutions.
+I'm a **Software Engineering** student and a passionate **Junior Web Developer**. My journey in tech spans from building responsive web applications with full-stack capabilities to exploring mobile development and system administration. I thrive on solving problems, optimized data handling, and building automated tools that make life easier.
 
 ```python
-class Achmal:
+class AchmalMaula:
     def __init__(self):
-        self.role = "Developer & Mobile App Engineer"
+        self.name = "Achmal Maulana"
+        self.role = "Software Engineering & Junior Web Developer"
         self.location = "Cilacap, Indonesia"
-        self.languages = ["C++", "SQL", "Dart/Flutter"]
+        self.github_handle = "Achmal-002"
 
     def get_current_focus(self):
         return [
-            "🚀 Flutter Mobile Development",
-            "💻 Linux System Administration",
-            "🎮 Game Modding & Customization"
+            "🚀 Building Responsive Web Applications",
+            "📱 Developing Cross-Platform Mobile Apps with Flutter",
+            "🤖 Crafting Intelligent Bot Automations"
         ]
