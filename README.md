@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🎭 Who Am I?
 
-<!--
-**GomalRajaGula/GomalRajaGula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Building secure digital experiences while hunting cyber threats"
 
-Here are some ideas to get you started:
+I'm a **Cybersecurity Engineering** student at Politeknik Negeri Cilacap and the founder of **HEXANEST.ID**. My journey spans from crafting elegant full-stack applications to analyzing API traffic and building intelligent WhatsApp bots. I believe in the power of technology to create secure, innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Achmal:
+    def __init__(self):
+        self.role = "Developer & Mobile App Engineer"
+        self.location = "Cilacap, Indonesia"
+        self.languages = ["C++", "SQL", "Dart/Flutter"]
+
+    def get_current_focus(self):
+        return [
+            "🚀 Flutter Mobile Development",
+            "💻 Linux System Administration",
+            "🎮 Game Modding & Customization"
+        ]
