@@ -1,30 +1,45 @@
-# Hi there, I'm Achmal Maulana! 👋
+Hi there, I'm Achmal Maulana! 👋
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Junior+Web+Developer;Shopee+Driver" alt="Typing SVG" />
-  </a>
-</p>
+🎭 Who Am I?
 
----
+"Building secure, elegant, and highly optimized digital solutions."
 
-## 🎭 Who Am I?
+I'm a Software Engineering student and an aspiring Junior Web Developer. My passion lies in constructing clean web architectures, scripting robust backend logic, and designing smooth user interfaces. I love learning new technologies, optimizing algorithm workflows, and creating smart automation scripts.
 
-> "Turning complex logic into elegant, functional digital experiences."
-
-I'm a **Software Engineering** student and a passionate **Junior Web Developer**. My journey in tech spans from building responsive web applications with full-stack capabilities to exploring mobile development and system administration. I thrive on solving problems, optimized data handling, and building automated tools that make life easier.
-
-```python
 class AchmalMaula:
     def __init__(self):
         self.name = "Achmal Maulana"
         self.role = "Software Engineering & Junior Web Developer"
-        self.location = "Jakarta, Indonesia"
-        my.location = "Cilacap, Indonesia"
-        self.github_handle = "GomalRajaGula"
+        self.location = "Cilacap, Indonesia"
+        self.github_handle = "Achmal-002"
 
     def get_current_focus(self):
         return [
-            "🚀 Building Responsive Web Applications",
-            "📱 Shopee Driver",
+            "🚀 Building Responsive Full-Stack Web Applications",
+            "🛠️ Mastering Advanced Database Management",
+            "💻 Writing Clean and Efficient C++ / PHP Algorithms"
         ]
+
+
+🛠️ Tech Arsenal
+
+🏆 Projects & Experience Showcase
+
+experience_and_projects:
+  - project: "Responsive Web Development"
+    category: "Fullstack / Frontend Projects"
+    tech_stack: ["HTML", "CSS", "JavaScript", "PHP"]
+    status: "Actively Developing"
+
+  - project: "Algorithm Optimization Tasks"
+    category: "Software Engineering Assignments"
+    tech_stack: ["C++", "Data Structures"]
+    status: "Completed"
+
+  - organization: "JKB FEST"
+    role: "Committee Division Member"
+    duration: "2026"
+    status: "Active Collaboration"
+
+
+📊 GitHub Analytics
