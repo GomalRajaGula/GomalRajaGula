@@ -10,8 +10,9 @@ class AchmalMaula:
     def __init__(self):
         self.name = "Achmal Maulana"
         self.role = "Software Engineering & Junior Web Developer"
+        self.born = "Jakarta, Indonesia"
         self.location = "Cilacap, Indonesia"
-        self.github_handle = "Achmal-002"
+        self.github_handle = "GomalRajaGula"
 
     def get_current_focus(self):
         return [
