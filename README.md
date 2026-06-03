@@ -1,11 +1,20 @@
-Hi there, I'm Achmal Maulana! 👋
+# Hi there, I'm Achmal Maulana! 👋
 
-🎭 Who Am I?
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Junior+Web+Developer;Shopee Driver" alt="Typing SVG" />
+  </a>
+</p>
 
-"Building secure, elegant, and highly optimized digital solutions."
+---
 
-I'm a Software Engineering student and an aspiring Junior Web Developer. My passion lies in constructing clean web architectures, scripting robust backend logic, and designing smooth user interfaces. I love learning new technologies, optimizing algorithm workflows, and creating smart automation scripts.
+## 🎭 Who Am I?
 
+> "Turning complex logic into elegant, functional digital experiences."
+
+I'm a **Software Engineering** student and a passionate **Junior Web Developer**. My journey in tech spans from building responsive web applications with full-stack capabilities to exploring mobile development and system administration. I thrive on solving problems, optimized data handling, and building automated tools that make life easier.
+
+```python
 class AchmalMaula:
     def __init__(self):
         self.name = "Achmal Maulana"
@@ -16,31 +25,6 @@ class AchmalMaula:
 
     def get_current_focus(self):
         return [
-            "🚀 Building Responsive Full-Stack Web Applications",
-            "🛠️ Mastering Advanced Database Management",
-            "💻 Writing Clean and Efficient C++ / PHP Algorithms"
+            "🚀 Building Responsive Web Applications",
+            "📱 Shopee Driver",
         ]
-
-
-🛠️ Tech Arsenal
-
-🏆 Projects & Experience Showcase
-
-experience_and_projects:
-  - project: "Responsive Web Development"
-    category: "Fullstack / Frontend Projects"
-    tech_stack: ["HTML", "CSS", "JavaScript", "PHP"]
-    status: "Actively Developing"
-
-  - project: "Algorithm Optimization Tasks"
-    category: "Software Engineering Assignments"
-    tech_stack: ["C++", "Data Structures"]
-    status: "Completed"
-
-  - organization: "JKB FEST"
-    role: "Committee Division Member"
-    duration: "2026"
-    status: "Active Collaboration"
-
-
-📊 GitHub Analytics
